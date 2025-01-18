@@ -1,10 +1,6 @@
 # Alumni-Association
 
-### **Evaluation of Your Idea as a Tech Sponsor**
 
-Your idea has the potential to address alumni-student engagement effectively while leveraging the familiarity of platforms like WhatsApp. Here’s a detailed evaluation:
-
----
 
 ### **Strengths (Unique Selling Points)**  
 1. **Seamless Integration with Existing Platforms:**  
